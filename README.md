@@ -3,7 +3,7 @@
 
 # Steps To Run The Project
 
-cd /mnt/drivename__
+cd /mnt/drivename \
 unzip zipfilename__
 cd Projectname__
 cd network/local__
