@@ -3,18 +3,18 @@
 
 # Steps To Run The Project
 
-cd /mnt/drivename
-unzip zipfilename
-cd Projectname
-cd network/local
-./init.sh
+cd /mnt/drivename__
+unzip zipfilename__
+cd Projectname__
+cd network/local__
+./init.sh__
 
-open another terminal
-cd /mnt/drivename
-cd Projectname
-cd server-api
-npm install
-node app
+open another terminal__
+cd /mnt/drivename___
+cd Projectname__
+cd server-api__
+npm install__
+node app__
 
 open another terminal
 cd /mnt/drivename
